@@ -1,0 +1,7 @@
+jjj/
+methStatistics/
+Panax_resequencing/
+potential/
+workstationPsmc_fasta/
+人参属总结190906t1951/
+工作190521/
